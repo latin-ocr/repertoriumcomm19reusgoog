@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./repertoriumcomm19reusgoog_0005.png"; bbox 0 0 4134 5375; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 493 1719 1700 1828">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 493 1719 1700 1828">
+     <span class='ocr_line' id='line_1_1' title="bbox 493 1719 1700 1828; baseline -0.002 -27"><span class='ocrx_word' id='word_1_1' title='bbox 493 1732 659 1802; x_wconf 72' lang='lat' dir='ltr'><strong>&#39;romum</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 683 1727 786 1797; x_wconf 85' lang='lat' dir='ltr'>hunc</span> <span class='ocrx_word' id='word_1_3' title='bbox 809 1727 994 1828; x_wconf 65' lang='lat' dir='ltr'><strong>quitqeum,</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1035 1749 1057 1796; x_wconf 82' lang='lat' dir='ltr'><strong>a</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1089 1723 1261 1822; x_wconf 78' lang='lat' dir='ltr'><strong>pluribus</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1291 1719 1562 1816; x_wconf 82' lang='lat' dir='ltr'><strong>desideratum,</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1598 1751 1700 1824; x_wconf 76' lang='lat' dir='ltr'><strong>prae·</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 373 1915 1698 2033">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 373 1915 1698 2033">
+     <span class='ocr_line' id='line_1_2' title="bbox 373 1915 1698 2033; baseline -0.003 -23"><span class='ocrx_word' id='word_1_8' title='bbox 373 1935 464 2010; x_wconf 71' lang='lat' dir='ltr'><strong>misi</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 504 1950 612 2010; x_wconf 89' lang='lat' dir='ltr'><strong>tomo</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 653 1952 805 2033; x_wconf 81' lang='lat' dir='ltr'><strong>quarto,</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 853 1931 1193 2007; x_wconf 80' lang='lat' dir='ltr'>commentationes</span> <span class='ocrx_word' id='word_1_12' title='bbox 1226 1933 1402 2030; x_wconf 79' lang='lat' dir='ltr'><strong>physicas</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1442 1915 1698 2030; x_wconf 51' lang='lat' dir='ltr'><strong>complexum.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 372 2141 1272 2246">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 372 2141 1272 2246">
+     <span class='ocr_line' id='line_1_3' title="bbox 372 2141 1272 2246; baseline -0.004 -26"><span class='ocrx_word' id='word_1_14' title='bbox 372 2149 518 2222; x_wconf 74' lang='lat' dir='ltr'>Tamus</span> <span class='ocrx_word' id='word_1_15' title='bbox 549 2162 700 2246; x_wconf 78' lang='lat' dir='ltr'><em>quartus</em></span> <span class='ocrx_word' id='word_1_16' title='bbox 738 2143 915 2240; x_wconf 83' lang='lat' dir='ltr'><strong>proximo</strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 957 2166 1058 2218; x_wconf 83' lang='lat' dir='ltr'><strong>anno</strong></span> <span class='ocrx_word' id='word_1_18' title='bbox 1093 2141 1272 2240; x_wconf 68' lang='lat' dir='ltr'><strong>prodibit</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 2072 5375">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 2072 5375">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 2072 5375; baseline 0 0"><span class='ocrx_word' id='word_1_19' title='bbox 0 0 2072 5375; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
